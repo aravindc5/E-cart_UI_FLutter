@@ -1,4 +1,4 @@
-# goalsappui
+# Shopping app UI
 
 A new Flutter application.
 
