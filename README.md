@@ -1,6 +1,6 @@
 # Shopping app UI
 
-A new Flutter application.
+Design inspired from dribble 
 
 ## Getting Started
 
