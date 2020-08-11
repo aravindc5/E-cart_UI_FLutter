@@ -2,6 +2,9 @@
 
 Design inspired from dribble 
 
+![shopui](https://user-images.githubusercontent.com/30715919/89857001-7c0e5180-dbb8-11ea-8d55-0ad1497e4da5.jpg)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
